@@ -1,0 +1,15 @@
+.navi ul {
+	float: left;
+	margin-left: auto !important;
+	margin-right: 0 !important;
+}
+
+.navi li {
+	float: right !important;
+	margin-left: 5%;
+}
+
+.navi a {
+	color: black !important;
+}
+
